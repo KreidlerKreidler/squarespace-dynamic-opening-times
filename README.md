@@ -11,7 +11,7 @@ This component allows you to dynamically display opening times on your Squarespa
 
 Here is an example of the opening times component in action:
 
-![Opening Times Example](https://your-image-url.com/example.png)
+![Opening Times Example](https://i.postimg.cc/CMnykSJg/ezgif-com-animated-gif-maker.gif)
 
 ## Code
 
